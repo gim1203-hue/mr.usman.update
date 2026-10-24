@@ -7,3 +7,4 @@
   "dependencies": {"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","motion":"latest","lucide-react":"latest","react-router-dom":"latest"},
   "devDependencies": {}
 }
+
